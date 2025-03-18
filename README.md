@@ -21,9 +21,9 @@ An AI-powered map that analyzes street safety based on crime reports, lighting, 
 
 ✅ pip install -r requirements.txt
 
-✅ cd app
+✅ copy the path of main.py present in the app
 
-✅ streamlit run main.py
+✅ streamlit run main.py(path)
 
 Projects runs Successfully✨
 
