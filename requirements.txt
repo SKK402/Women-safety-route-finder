@@ -9,5 +9,6 @@ googlemaps
 streamlit-javascript
 supabase
 streamlit-authenticator
+python-dotenv
 
 
