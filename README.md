@@ -19,7 +19,7 @@ An AI-powered map that analyzes street safety based on crime reports, lighting, 
 
 -python(3.11+)
 
--Create a .env file with a google api key in which geolocation api is enabled
+-Create a .env file inside the app with a google api key in which geolocation api is enabled
 
 **✅ cloning repo**
 ```bash
