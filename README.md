@@ -41,7 +41,7 @@ streamlit run (paste the path of main.py)
 Projects runs Successfully✨
 
 
-##📌 Usage
+## 📌 Usage
 
 
 Enter your start and destination points or location
@@ -51,6 +51,6 @@ View safety route with least heatmaps and nearest police station
 Choose the safest  route
 
 
-##📄 License
+## 📄 License
 
 This project is open-source under the MIT License.
